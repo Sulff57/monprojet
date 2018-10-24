@@ -1,2 +1,2 @@
-var a = "Bonjour";
+var a = ("Bonjour");
 log.console(a);
